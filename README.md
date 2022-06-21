@@ -10,10 +10,14 @@ One of my biggest challenges was getting the pivot table to work correctly. Some
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Per the data i can see that during the month of may more people are going to the theater and are willing so spend more money in these kinds of situation. Probalby correlade with summer break. Really starts dropping off during the winter.
 - What can you conclude about the Outcomes based on Goals?
+
 Looks like plays are not a very popular category. Data suggest that as it get's more expensive the less likely people will spend money on it. 
-- What are some limitations of this dataset?
+- What are some limitations of this datasets.
+
 Not sure on limitation, for the challenge this seems to pull all the data necessary to be able to be completed.
 - What are some other possible tables and/or graphs that we could create?
+
 A bar graph can defiently be another option to ilustrate the required infomation that the challenge was requesting. 
